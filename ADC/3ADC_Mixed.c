@@ -114,8 +114,6 @@ int main(void)
 
 
 
-
-
         //GPIO_PORTA_DATA_R = 0x10;
         //GPIO_PORTB_DATA_R = result;
         int a = (result/100)%10;
@@ -146,6 +144,7 @@ int main(void)
         }
         ADC0_ISC_R = 8;        /* clear completion flag */
         ADC0_ISC_R = 4;
+        ADC0_ISC_R = 2;
     }
 }
 void delayMs(int n)
