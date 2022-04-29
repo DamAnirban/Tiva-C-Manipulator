@@ -1,2 +1,2 @@
 # Tiva-C-Manipulator
-Arm Cortex (Tiva-C) based memory mapped 3DoF manipulator
+Arm Cortex (Tiva-C) based ADC mapped 3DoF manipulator
