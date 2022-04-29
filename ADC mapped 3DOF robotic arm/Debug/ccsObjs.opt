@@ -1,0 +1,1 @@
+"./adc.o" "./main.o" "./servo_init.o" "./tm4c123gh6pm_startup_ccs_gcc.o" -Wl,-T"../tm4c123gh6pm.lds" -Wl,--start-group "/home/anirban/ccs_workspace2/1_WashingMachine/libdriver.a" -Wl,--end-group 
