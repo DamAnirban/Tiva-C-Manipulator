@@ -1,0 +1,18 @@
+# TI Code Composer Studio build artifacts
+Debug/
+Release/
+*.out
+*.map
+*.d
+*.o
+*.opt
+ccsObjs.opt
+
+# CCS workspace metadata (not project files)
+.launches/
+.settings/
+RemoteSystemsTempFiles/
+
+# OS files
+.DS_Store
+Thumbs.db
